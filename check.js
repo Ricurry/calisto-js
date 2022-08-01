@@ -8,7 +8,7 @@ const mongoose = require('mongoose')
 
 const User = require("./mongodb/GuildMember.js")
 
-var url = "mongodb+srv://admin:o684CaDedK60T4xh@calisto-js.unhgt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+var url = "YOUSHALLNOTSEE";
 mongoose.connect(url)
 
 var db = mongoose.connection;
