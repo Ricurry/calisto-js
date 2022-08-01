@@ -3,5 +3,5 @@
 My fully assembled Discord Bot,
 - Can play audio.
   - Search feature for audio.
-- Dumb notifications.
+- Dumb notification roles
 - Verify feature.
